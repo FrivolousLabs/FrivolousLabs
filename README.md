@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frivolouslabs. I've spent the past 6 years in non-dev roles across trading and start ups.
+- 👋 Hi, I’m @frivolouslabs. I've spent the past 6 years in non-dev roles across trading and start ups - I'm teaching myself mobile development to build some of my ideas. 
 - 👀 I’m interested in mobile development for iOS apps.
 - 🌱 I’m currently learning SwiftUI to make an app I've dreamed about building for a while
 - 💞️ I’m looking to collaborate on consumer social apps & animations. 
